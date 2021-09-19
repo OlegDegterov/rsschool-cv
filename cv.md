@@ -1,8 +1,8 @@
-### Oleg Degterov<h3>
-#### Junior Web Developer <h4>
+### Oleg Degterov
+#### Junior Web Developer 
 
 ---
-#### Contacts <h4>
+#### Contacts
 >Address: 212000, Belarus, Mogilev, Krasnogo Flota st., 6B-43
 >* email: olegdegterov@gmail.com
 >* telephone number: +375 (29) 2359096 
